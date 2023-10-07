@@ -7,9 +7,9 @@ _7th October 2023_
 
 ### Description
 This project makes use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
-## Files used
+### Files used
 **bikeshare.py**
 
-# Credits
+### Credits
 
 
